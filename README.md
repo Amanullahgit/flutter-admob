@@ -1,16 +1,23 @@
-# flutter_admob_project
+# Flutter AdMob Advertisements
 
-A new Flutter project.
+This is the source code for Flutter AdMob Ads.<br>
 
-## Getting Started
+## App Features
+- Banner Ads.<br>
+- Interstitial Ads.<br>
+- Native Ads.<br>
+- Video Rewarded Ads.<br><br>
 
-This project is a starting point for a Flutter application.
+For Step By Step Guide Follow Video Tutorial:
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter AdMob | How To Add Advertisements In Flutter App - Step By Step Tutorial](https://youtu.be/hH3DlnFlJqA)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Links used in project:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Firebase AdMob](https://bit.ly/36BI7Bb)
+- [Flutter Native Ads](https://bit.ly/3ogZ8GM)
+- [Firebase Core](https://bit.ly/3lSrhDt)
+<br><br>
+
+Feel Free to copy the code and use it.<br><br>
+Don't forget to star the repo and like the video :)
